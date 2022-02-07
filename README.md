@@ -1,6 +1,12 @@
 ### Olá! Eu sou Thiago Raphael e essas são algumas das minhas atividades
 Alguns detalhes do que eu faço não aparecem aqui por serem projetos privados, mas gosto muito de ajudar dentro da minha linha de conhecimento!
 
+Vou tentar me apresentar de maneira objetiva e simples, pois tenho muito a contar e pouco espaço pra escrever :D
+
+Hoje me considero um profissional capaz de atuar bem em resolução de problemas em geral. Atualmente atuo como BackEnd Developer usando a linguagem C#, aproveitando meu conhecimento adquirido em mais de 20 anos de experiência onde tive a oportunidade de trabalhar com várias linguagens de programação (Delphi, VB, PHP, C, Java, JavaScript, C#), em diversas plataformas (Desktop, Web, Mobile) e com alguns bancos de dados (MySQL, Interbase, PostgreSQL, SQL Server, MongoDB), transformando problemas da vida real em soluções inteligentes e otimizadas, baseada em uma experiência de mais de 15 anos em indústria de eletroeletrônicos.
+
+Participei de processo de implantação de SAP, migração de servidores para a nuvem (conhecimento em AWS e outras), tive oportunidade de produzir soluções em mensageria (RabbitMQ) e trabalhei com o SVN, GIT, SCRUM na gestão, ajudando minha equipe a atuar com pontualidade e precisão nas entregas dos projetos, bem como administrando as relações interpessoais e liderando equipes.
+
 <div align="center">
   <a href="https://github.com/thiagoraheem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoraheem&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
